@@ -11,15 +11,15 @@ For example:
 ```csharp
 public class Survey
 {
-	public Guid Id;
-	public string Name;
-	public List<Question> Questions;
+    public Guid Id;
+    public string Name;
+    public List<Question> Questions;
 }
 
 public class Question
 {
-  public Guid Id;
-  public string Description;
+    public Guid Id;
+    public string Description;
 }
 ```
 
